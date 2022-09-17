@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Pretia SDK/0.6.0/Map-based Relocalization Sample/Scenes/MapBasedRelocSample.unity
+    guid: f8a363f51e04c4a6f893ef4d13ca4d0c
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}

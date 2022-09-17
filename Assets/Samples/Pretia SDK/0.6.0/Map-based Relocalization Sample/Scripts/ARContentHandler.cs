@@ -11,6 +11,12 @@ public class ARContentHandler : MonoBehaviour
     [SerializeField]
     private GameObject _arContents;
 
+    [SerializeField]
+    private GameObject _gameObject;
+
+    [SerializeField]
+    private GameObject _editButton;
+
     void OnEnable()
     {
         _relocManager.OnMapRelocalized += OnMapRelocalized;
@@ -26,6 +32,8 @@ public class ARContentHandler : MonoBehaviour
     private void OnRelocalized()
     {
         _arContents.SetActive(true);
+        _gameObject.SetActive(true);
+        _editButton.SetActive(true);
     }
 
     private void OnMapRelocalized(string mapKey)
