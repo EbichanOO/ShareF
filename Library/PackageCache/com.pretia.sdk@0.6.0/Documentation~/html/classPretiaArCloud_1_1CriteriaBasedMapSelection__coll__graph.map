@@ -1,6 +1,0 @@
-<map id="PretiaArCloud.CriteriaBasedMapSelection" name="PretiaArCloud.CriteriaBasedMapSelection">
-<area shape="rect" id="node1" title=" " alt="" coords="117,171,301,212"/>
-<area shape="rect" id="node2" href="$classPretiaArCloud_1_1AbstractMapSelection.html" title=" " alt="" coords="5,81,156,108"/>
-<area shape="rect" id="node3" title=" " alt="" coords="21,5,140,32"/>
-<area shape="rect" id="node4" href="$classMapSelectionCriteria.html" title="A list of criteria to select a map from the server" alt="" coords="180,81,323,108"/>
-</map>

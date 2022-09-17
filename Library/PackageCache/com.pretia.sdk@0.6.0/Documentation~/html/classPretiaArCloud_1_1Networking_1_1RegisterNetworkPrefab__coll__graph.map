@@ -1,9 +1,0 @@
-<map id="PretiaArCloud.Networking.RegisterNetworkPrefab" name="PretiaArCloud.Networking.RegisterNetworkPrefab">
-<area shape="rect" id="node1" title=" " alt="" coords="787,61,961,102"/>
-<area shape="rect" id="node2" title=" " alt="" coords="229,5,340,32"/>
-<area shape="rect" id="node3" href="$classPretiaArCloud_1_1Networking_1_1NetworkIdentity.html" title=" " alt="" coords="511,61,685,102"/>
-<area shape="rect" id="node4" href="$classPretiaArCloud_1_1Networking_1_1Player.html" title=" " alt="" coords="197,61,372,102"/>
-<area shape="rect" id="node5" href="$interfacePretiaArCloud_1_1Networking_1_1IGameSession.html" title=" " alt="" coords="197,138,372,179"/>
-<area shape="rect" id="node6" href="$interfacePretiaArCloud_1_1Networking_1_1IGameSessionEvent.html" title=" " alt="" coords="7,120,146,147"/>
-<area shape="rect" id="node7" title=" " alt="" coords="5,171,148,197"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="PretiaArCloud.Networking.StreamPacketSource" name="PretiaArCloud.Networking.StreamPacketSource">
-<area shape="rect" id="node1" title=" " alt="" coords="160,39,335,80"/>
-<area shape="rect" id="node3" href="$classPretiaArCloud_1_1Networking_1_1RelocPacketSource.html" title=" " alt="" coords="383,5,557,47"/>
-<area shape="rect" id="node4" href="$classPretiaArCloud_1_1Networking_1_1TcpPacketSource.html" title=" " alt="" coords="383,71,557,112"/>
-<area shape="rect" id="node2" href="$interfacePretiaArCloud_1_1Networking_1_1IPacketSource.html" title=" " alt="" coords="5,46,112,73"/>
-</map>

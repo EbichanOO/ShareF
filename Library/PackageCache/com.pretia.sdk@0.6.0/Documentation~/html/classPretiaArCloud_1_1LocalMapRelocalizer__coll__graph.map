@@ -1,8 +1,0 @@
-<map id="PretiaArCloud.LocalMapRelocalizer" name="PretiaArCloud.LocalMapRelocalizer">
-<area shape="rect" id="node1" title=" " alt="" coords="87,213,314,240"/>
-<area shape="rect" id="node2" href="$interfacePretiaArCloud_1_1IRelocalizer.html" title=" " alt="" coords="5,117,95,143"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,13,95,39"/>
-<area shape="rect" id="node4" href="$interfacePretiaArCloud_1_1INativeApi.html" title=" " alt="" coords="119,117,282,143"/>
-<area shape="rect" id="node5" href="$classPretiaArCloud_1_1SyncedCameraManager.html" title=" " alt="" coords="306,109,501,151"/>
-<area shape="rect" id="node6" href="$structPretiaArCloud_1_1SyncedCameraManager_1_1CameraIntrinsics.html" title=" " alt="" coords="306,5,501,47"/>
-</map>

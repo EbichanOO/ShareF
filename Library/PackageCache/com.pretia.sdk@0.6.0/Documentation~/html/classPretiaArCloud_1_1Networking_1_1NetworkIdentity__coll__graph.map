@@ -1,8 +1,0 @@
-<map id="PretiaArCloud.Networking.NetworkIdentity" name="PretiaArCloud.Networking.NetworkIdentity">
-<area shape="rect" id="node1" title=" " alt="" coords="511,57,685,98"/>
-<area shape="rect" id="node2" title=" " alt="" coords="229,5,340,32"/>
-<area shape="rect" id="node3" href="$classPretiaArCloud_1_1Networking_1_1Player.html" title=" " alt="" coords="197,57,372,98"/>
-<area shape="rect" id="node4" href="$interfacePretiaArCloud_1_1Networking_1_1IGameSession.html" title=" " alt="" coords="197,122,372,163"/>
-<area shape="rect" id="node5" href="$interfacePretiaArCloud_1_1Networking_1_1IGameSessionEvent.html" title=" " alt="" coords="7,104,146,131"/>
-<area shape="rect" id="node6" title=" " alt="" coords="5,155,148,181"/>
-</map>
