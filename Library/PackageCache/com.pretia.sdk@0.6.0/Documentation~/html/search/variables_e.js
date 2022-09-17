@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['onauth_2540',['OnAuth',['../classPretiaArCloud_1_1Networking_1_1LobbyClient.html#af8e7c94f4112b10a50c85e79dbebe7ba',1,'PretiaArCloud::Networking::LobbyClient']]],
+  ['onautherror_2541',['OnAuthError',['../classPretiaArCloud_1_1Networking_1_1LobbyClient.html#a0c2817b07b206e957e3b1b2b6d47d4a4',1,'PretiaArCloud::Networking::LobbyClient']]],
+  ['ondisconnect_2542',['OnDisconnect',['../classPretiaArCloud_1_1Networking_1_1LobbyClient.html#a5fd277db3102147254b67d9420384805',1,'PretiaArCloud::Networking::LobbyClient']]],
+  ['onerror_2543',['OnError',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#a5464560bad9feb51f85e3ccd13046d2b',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['onhostappointment_2544',['OnHostAppointment',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#a80848271f88c3f735cebb5bfc437d316',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['onhostmessage_2545',['OnHostMessage',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#a16311d56c40107519de3580685cce562',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['onhosttoplayermessage_2546',['OnHostToPlayerMessage',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#a171b5e1e45036c403b57d8ab5e172818',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['onlogout_2547',['OnLogout',['../classPretiaArCloud_1_1Networking_1_1LobbyClient.html#aea4bdea049599537af0040e17ef259d4',1,'PretiaArCloud::Networking::LobbyClient']]],
+  ['onlyprivatemaps_2548',['OnlyPrivateMaps',['../classPretiaArCloud_1_1MapSelectionNetworkRequest.html#a4689b3f3b8f4f7900a7333f61c7c53be',1,'PretiaArCloud::MapSelectionNetworkRequest']]],
+  ['onlypublicmaps_2549',['OnlyPublicMaps',['../classPretiaArCloud_1_1MapSelectionNetworkRequest.html#a96a48a181681693195d45e6747fb7443',1,'PretiaArCloud::MapSelectionNetworkRequest']]],
+  ['onmatch_2550',['OnMatch',['../classPretiaArCloud_1_1Networking_1_1LobbyClient.html#a7fe880e8ba6e4192281f514a56d2450b',1,'PretiaArCloud::Networking::LobbyClient']]],
+  ['onplayermessage_2551',['OnPlayerMessage',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#abba3226cd73c156dd6187b30ff0a15da',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['onplayertohostmessage_2552',['OnPlayerToHostMessage',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#ae63de73861dede3733545b98168c0ae1',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['onreconnected_2553',['OnReconnected',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#a33cd559f216cfc5261f67dfcf0b88ee5',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['onsessionconnected_2554',['OnSessionConnected',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#a0439e09512b06eb21c9c46c76b444650',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['onsessiondisconnected_2555',['OnSessionDisconnected',['../classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html#a45e7093de0a1b4615852f9844add1270',1,'PretiaArCloud::Networking::ReliableGameClient']]],
+  ['op_5ftype_2556',['OP_TYPE',['../classPretiaArCloud_1_1Networking_1_1HostMessageHandler.html#a46884f5d7c6f482995049ee9be061e18',1,'PretiaArCloud.Networking.HostMessageHandler.OP_TYPE()'],['../classPretiaArCloud_1_1Networking_1_1HostToPlayerMessageHandler.html#a9e6c368a3c7176e0f9fe7999516507a0',1,'PretiaArCloud.Networking.HostToPlayerMessageHandler.OP_TYPE()'],['../classPretiaArCloud_1_1Networking_1_1PlayerMessageHandler.html#a33f30028067525be8d1e63af716052b1',1,'PretiaArCloud.Networking.PlayerMessageHandler.OP_TYPE()'],['../classPretiaArCloud_1_1Networking_1_1PlayerToHostMessageHandler.html#a15a571e6a65c36bad30c00aaacff6856',1,'PretiaArCloud.Networking.PlayerToHostMessageHandler.OP_TYPE()']]],
+  ['options_2557',['Options',['../classPretiaArCloud_1_1Networking_1_1MsgPackSerializer.html#ab16fc06e578a8e412a5b0320233cb1ad',1,'PretiaArCloud::Networking::MsgPackSerializer']]],
+  ['orientation_2558',['Orientation',['../structPretiaArCloud_1_1RecordingPlayback_1_1Serialization_1_1ImageSerialization_1_1ImageSettings.html#a6f2b509559af5aace3abd92b0ae30250',1,'PretiaArCloud.RecordingPlayback.Serialization.ImageSerialization.ImageSettings.Orientation()'],['../classPretiaArCloud_1_1RecordingPlayback_1_1PlaybackBehaviour.html#a234630ded6ce7d5b6605b40b1d3ce111',1,'PretiaArCloud.RecordingPlayback.PlaybackBehaviour.orientation()'],['../classPretiaArCloud_1_1InverseDisplayMatrix.html#a4c8cf24a97da3b7157ce1de8a9a99b00',1,'PretiaArCloud.InverseDisplayMatrix.orientation()']]],
+  ['orientationpropertyname_2559',['OrientationPropertyName',['../classPretiaArCloud_1_1RecordingPlayback_1_1PlaybackUtility.html#ace2757ea9d8d8dc377070aa9d551ccb0',1,'PretiaArCloud::RecordingPlayback::PlaybackUtility']]],
+  ['owner_2560',['Owner',['../classPretiaArCloud_1_1Networking_1_1InstantiateMsg.html#a5e246721d308149ecf8af6deea70596d',1,'PretiaArCloud::Networking::InstantiateMsg']]]
+];

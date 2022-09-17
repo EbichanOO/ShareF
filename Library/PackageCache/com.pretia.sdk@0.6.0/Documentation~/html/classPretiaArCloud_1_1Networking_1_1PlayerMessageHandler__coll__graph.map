@@ -1,0 +1,12 @@
+<map id="PretiaArCloud.Networking.PlayerMessageHandler" name="PretiaArCloud.Networking.PlayerMessageHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="675,171,849,212"/>
+<area shape="rect" id="node2" href="$classPretiaArCloud_1_1Networking_1_1Player.html" title=" " alt="" coords="369,68,544,109"/>
+<area shape="rect" id="node3" href="$classPretiaArCloud_1_1Networking_1_1ReliableGameClient.html" title=" " alt="" coords="369,133,544,175"/>
+<area shape="rect" id="node4" title=" " alt="" coords="48,7,137,34"/>
+<area shape="rect" id="node5" href="$classPretiaArCloud_1_1Networking_1_1ArrayBufferWriter.html" title=" " alt="" coords="5,68,180,109"/>
+<area shape="rect" id="node6" href="$classPretiaArCloud_1_1Networking_1_1GamePacketProcessor.html" title=" " alt="" coords="5,133,180,175"/>
+<area shape="rect" id="node7" href="$interfacePretiaArCloud_1_1Networking_1_1IMainThreadExecutor.html" title=" " alt="" coords="5,199,180,240"/>
+<area shape="rect" id="node8" href="$interfacePretiaArCloud_1_1Networking_1_1IPacketSource.html" title=" " alt="" coords="5,264,180,305"/>
+<area shape="rect" id="node9" href="$classPretiaArCloud_1_1Networking_1_1TickManager.html" title=" " alt="" coords="369,199,544,240"/>
+<area shape="rect" id="node10" href="$interfacePretiaArCloud_1_1Networking_1_1ISerializer.html" title=" " alt="" coords="369,264,544,305"/>
+</map>

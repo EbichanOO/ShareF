@@ -1,0 +1,7 @@
+<map id="PretiaArCloud.Networking.HostOnlyObject" name="PretiaArCloud.Networking.HostOnlyObject">
+<area shape="rect" id="node1" title=" " alt="" coords="25,185,200,227"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,89,116,115"/>
+<area shape="rect" id="node3" href="$interfacePretiaArCloud_1_1Networking_1_1IGameSession.html" title=" " alt="" coords="140,81,315,123"/>
+<area shape="rect" id="node4" href="$interfacePretiaArCloud_1_1Networking_1_1IGameSessionEvent.html" title=" " alt="" coords="75,5,214,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="239,5,381,32"/>
+</map>

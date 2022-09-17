@@ -1,0 +1,5 @@
+var classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1DeleteExistInSceneObjectsMsgFormatter =
+[
+    [ "Deserialize", "classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1DeleteExistInSceneObjectsMsgFormatter.html#a30629dbaefef2b9c13445959da0905c3", null ],
+    [ "Serialize", "classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1DeleteExistInSceneObjectsMsgFormatter.html#a2fdce618970b9366fbc794c13858f2da", null ]
+];

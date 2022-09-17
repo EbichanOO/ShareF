@@ -1,0 +1,5 @@
+var classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1NotifyConnectionMsgFormatter =
+[
+    [ "Deserialize", "classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1NotifyConnectionMsgFormatter.html#ac975b9d90ecaa5a4c9276c458fe355e9", null ],
+    [ "Serialize", "classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1NotifyConnectionMsgFormatter.html#a6dba30cd79523295f37d8e0fa6246782", null ]
+];

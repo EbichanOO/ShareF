@@ -1,0 +1,27 @@
+var classPretiaArCloud_1_1Utility =
+[
+    [ "ConvertUnitySlamPose", "classPretiaArCloud_1_1Utility.html#a66d5d0fd01a0c4ca5ed1cce045fe878d", null ],
+    [ "DisplayOrientedPoseToPhysicalPose", "classPretiaArCloud_1_1Utility.html#a20a3cab5f98bc2210e624bf836ff9c38", null ],
+    [ "EstimateSharedAnchor", "classPretiaArCloud_1_1Utility.html#a99a0998128936c2e331372887e3c2dad", null ],
+    [ "GetAveragePose", "classPretiaArCloud_1_1Utility.html#a311ce86f145e771b83a212875e13f194", null ],
+    [ "GetDeviceName", "classPretiaArCloud_1_1Utility.html#a420bac128f8f354a9474bfef18468dba", null ],
+    [ "InversePose", "classPretiaArCloud_1_1Utility.html#aff20ba6a4d4da08d71f2171e9f0c9471", null ],
+    [ "IsEditor", "classPretiaArCloud_1_1Utility.html#a3ac28c13eadba2beba4668d7f5536abe", null ],
+    [ "IsStandalone", "classPretiaArCloud_1_1Utility.html#a231af80748bdc4879aac701aa0f1522a", null ],
+    [ "PhysicalPoseToDisplayOrientedPose", "classPretiaArCloud_1_1Utility.html#a69bf6e46155df0d8aeb2d7ca0572924c", null ],
+    [ "QuaternionSwingTwist", "classPretiaArCloud_1_1Utility.html#a4e0f6310acafc5cfac4d6b92577d37cb", null ],
+    [ "QuaternionTwist", "classPretiaArCloud_1_1Utility.html#a7a847a33c040d029e1bc60dd292e7f94", null ],
+    [ "RawPoseToUnityPose", "classPretiaArCloud_1_1Utility.html#a59b69efcbcad061f29dcd240ccc63807", null ],
+    [ "SetPoseUpward", "classPretiaArCloud_1_1Utility.html#aba19b70c49963fd28a0836630887243b", null ],
+    [ "SlamPoseToUnityPose", "classPretiaArCloud_1_1Utility.html#a7f60ce45184224b2741ffbad2fcf30ef", null ],
+    [ "SpanToStruct< T >", "classPretiaArCloud_1_1Utility.html#a8fb3c870bef4dffa3f18838364ac284e", null ],
+    [ "StreamingAssetsToFile", "classPretiaArCloud_1_1Utility.html#af07fd4a00527b9c4ea42d496bd694466", null ],
+    [ "StructToBytes< T >", "classPretiaArCloud_1_1Utility.html#aa6061baaa85507eeb0604bcd3214a413", null ],
+    [ "UnityPoseToRawPose", "classPretiaArCloud_1_1Utility.html#a80fb12a067f28d83d41874626dabdb2c", null ],
+    [ "UnityPoseToRawPose", "classPretiaArCloud_1_1Utility.html#a444e7b0fd532542feb7a80b1821872fa", null ],
+    [ "UnityPoseToSlamPose", "classPretiaArCloud_1_1Utility.html#a1a4ead49c6b41e225618fb4789aead06", null ],
+    [ "Mat_rot180", "classPretiaArCloud_1_1Utility.html#abaa39bfc44d3eac345857927334645f8", null ],
+    [ "Mat_rot90neg", "classPretiaArCloud_1_1Utility.html#a7ec814cda15549e3615d2638953c3be9", null ],
+    [ "Mat_rot90pos", "classPretiaArCloud_1_1Utility.html#afa3d54af0d9996f00b2d606f2c948301", null ],
+    [ "Mat_rotNone", "classPretiaArCloud_1_1Utility.html#ad70d346a90357940f1dab4995cd2f758", null ]
+];

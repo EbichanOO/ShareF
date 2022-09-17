@@ -1,0 +1,11 @@
+<map id="PretiaArCloud.CloudMapRelocalizer" name="PretiaArCloud.CloudMapRelocalizer">
+<area shape="rect" id="node1" title=" " alt="" coords="776,83,1004,109"/>
+<area shape="rect" id="node2" href="$interfacePretiaArCloud_1_1IRelocalizer.html" title=" " alt="" coords="417,5,506,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="58,5,147,32"/>
+<area shape="rect" id="node4" href="$interfacePretiaArCloud_1_1INativeApi.html" title=" " alt="" coords="380,56,543,83"/>
+<area shape="rect" id="node5" href="$classPretiaArCloud_1_1SyncedCameraManager.html" title=" " alt="" coords="364,107,559,149"/>
+<area shape="rect" id="node6" href="$structPretiaArCloud_1_1SyncedCameraManager_1_1CameraIntrinsics.html" title=" " alt="" coords="5,107,200,149"/>
+<area shape="rect" id="node7" href="$classPretiaArCloud_1_1NetworkRelocalizationClient.html" title=" " alt="" coords="344,173,579,214"/>
+<area shape="rect" id="node8" href="$interfacePretiaArCloud_1_1INetworkRelocalizationClient.html" title=" " alt="" coords="9,176,196,203"/>
+<area shape="rect" id="node9" href="$interfacePretiaArCloud_1_1Networking_1_1IPacketSource.html" title=" " alt="" coords="15,227,190,269"/>
+</map>
