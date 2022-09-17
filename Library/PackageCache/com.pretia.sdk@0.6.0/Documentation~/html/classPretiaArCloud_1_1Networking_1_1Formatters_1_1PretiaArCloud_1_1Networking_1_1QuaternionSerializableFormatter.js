@@ -1,5 +1,0 @@
-var classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1QuaternionSerializableFormatter =
-[
-    [ "Deserialize", "classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1QuaternionSerializableFormatter.html#a3c80f69425c33b22a983d52de72100e7", null ],
-    [ "Serialize", "classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1QuaternionSerializableFormatter.html#acd67acadebd8c68dd09a94471a897fbc", null ]
-];

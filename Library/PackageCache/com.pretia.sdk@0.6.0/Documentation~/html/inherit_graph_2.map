@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,141,124,167"/>
-<area shape="rect" id="node2" href="$classPretiaArCloud_1_1AbstractMapSelection.html" title=" " alt="" coords="186,35,366,76"/>
-<area shape="rect" id="node5" href="$classPretiaArCloud_1_1MapSelectionStrategy.html" title=" " alt="" coords="183,100,369,141"/>
-<area shape="rect" id="node6" href="$classPretiaArCloud_1_1Networking_1_1NetworkSettings.html" title=" " alt="" coords="189,165,363,207"/>
-<area shape="rect" id="node7" href="$classPretiaArCloud_1_1PretiaSDKProjectSettings.html" title=" " alt="" coords="172,231,380,272"/>
-<area shape="rect" id="node3" href="$classPretiaArCloud_1_1CriteriaBasedMapSelection.html" title=" " alt="" coords="445,5,629,47"/>
-<area shape="rect" id="node4" href="$classPretiaArCloud_1_1DirectMapSelection.html" title=" " alt="" coords="428,71,647,98"/>
-</map>

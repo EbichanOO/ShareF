@@ -1,8 +1,0 @@
-<map id="PretiaArCloud.Networking.ISynchronizable" name="PretiaArCloud.Networking.ISynchronizable">
-<area shape="rect" id="node1" title=" " alt="" coords="5,104,180,145"/>
-<area shape="rect" id="node2" href="$classPretiaArCloud_1_1Networking_1_1NetworkBehaviour.html" title=" " alt="" coords="228,104,403,145"/>
-<area shape="rect" id="node3" href="$classPretiaArCloud_1_1Networking_1_1NetworkAnimator.html" title=" " alt="" coords="451,5,625,47"/>
-<area shape="rect" id="node4" href="$classPretiaArCloud_1_1Networking_1_1NetworkCameraProxy.html" title=" " alt="" coords="451,71,625,112"/>
-<area shape="rect" id="node5" href="$classPretiaArCloud_1_1Networking_1_1NetworkRigidbody.html" title=" " alt="" coords="451,136,625,177"/>
-<area shape="rect" id="node6" href="$classPretiaArCloud_1_1Networking_1_1NetworkTransform.html" title=" " alt="" coords="451,201,625,243"/>
-</map>
