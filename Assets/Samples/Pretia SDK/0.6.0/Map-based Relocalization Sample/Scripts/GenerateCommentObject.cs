@@ -5,6 +5,7 @@ using UnityEngine;
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
+using HttpHandler;
 
 public class GenerateCommentObject : MonoBehaviour
 {
