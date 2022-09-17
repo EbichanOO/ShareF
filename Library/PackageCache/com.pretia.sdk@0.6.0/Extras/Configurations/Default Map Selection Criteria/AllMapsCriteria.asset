@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6907bab223624e558a9a3a02c087203, type: 3}
+  m_Name: AllMapsCriteria
+  m_EditorClassIdentifier: 
+  _criteria:
+    Public: 0
+    Merged: 0
+    GroupKeys: []
+    GpsThreshold: 3.4028235e+38
+    TimeThreshold: 1
+    Sorting: 1

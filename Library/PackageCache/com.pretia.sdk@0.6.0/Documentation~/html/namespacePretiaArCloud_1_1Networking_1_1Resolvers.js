@@ -1,0 +1,5 @@
+var namespacePretiaArCloud_1_1Networking_1_1Resolvers =
+[
+    [ "PretiaGeneratedResolver", "classPretiaArCloud_1_1Networking_1_1Resolvers_1_1PretiaGeneratedResolver.html", "classPretiaArCloud_1_1Networking_1_1Resolvers_1_1PretiaGeneratedResolver" ],
+    [ "PretiaGeneratedResolverGetFormatterHelper", "classPretiaArCloud_1_1Networking_1_1Resolvers_1_1PretiaGeneratedResolverGetFormatterHelper.html", "classPretiaArCloud_1_1Networking_1_1Resolvers_1_1PretiaGeneratedResolverGetFormatterHelper" ]
+];

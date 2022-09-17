@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['playermsg_2829',['PlayerMsg',['../classPretiaArCloud_1_1Networking_1_1GameSession.html#a847b4f2526e5c4c7f0f660833a8b102e',1,'PretiaArCloud.Networking.GameSession.PlayerMsg()'],['../interfacePretiaArCloud_1_1Networking_1_1IGameSession.html#a9f1b9bac3093f916f5ac2ecdeea55b59',1,'PretiaArCloud.Networking.IGameSession.PlayerMsg()']]],
+  ['players_2830',['Players',['../interfacePretiaArCloud_1_1Networking_1_1IGameSession.html#ad51fb91f0415990e01f44c862885b953',1,'PretiaArCloud::Networking::IGameSession']]],
+  ['playersynchronizationmanager_2831',['PlayerSynchronizationManager',['../classPretiaArCloud_1_1Networking_1_1GameSession.html#a8ecf6c47106c07dac127136dfeb80c0a',1,'PretiaArCloud.Networking.GameSession.PlayerSynchronizationManager()'],['../interfacePretiaArCloud_1_1Networking_1_1IGameSession.html#a38f263e95da2801f39f2ebc2135c8bd5',1,'PretiaArCloud.Networking.IGameSession.PlayerSynchronizationManager()']]],
+  ['playertohostmsg_2832',['PlayerToHostMsg',['../classPretiaArCloud_1_1Networking_1_1GameSession.html#a3bd57ddc5228bb94ac305ee0a32e140f',1,'PretiaArCloud.Networking.GameSession.PlayerToHostMsg()'],['../interfacePretiaArCloud_1_1Networking_1_1IGameSession.html#a9bf64a7887309b5fa17a979448724db0',1,'PretiaArCloud.Networking.IGameSession.PlayerToHostMsg()']]],
+  ['playertohostsynchronizationmanager_2833',['PlayerToHostSynchronizationManager',['../classPretiaArCloud_1_1Networking_1_1GameSession.html#a3ffd5f33c45408b08c510fd3bafe2ea1',1,'PretiaArCloud.Networking.GameSession.PlayerToHostSynchronizationManager()'],['../interfacePretiaArCloud_1_1Networking_1_1IGameSession.html#a52941ae0dd4464722fbbccc47a108235',1,'PretiaArCloud.Networking.IGameSession.PlayerToHostSynchronizationManager()']]],
+  ['prefabid_2834',['PrefabId',['../classPretiaArCloud_1_1Networking_1_1NetworkIdentity.html#a4d599f28bc8c102f6761bb63af2cb459',1,'PretiaArCloud::Networking::NetworkIdentity']]],
+  ['projectionmaterial_2835',['ProjectionMaterial',['../classPretiaArCloud_1_1RecordingPlayback_1_1BackgroundProjector.html#a574c85fc42da62f3cab2d543204b94ef',1,'PretiaArCloud::RecordingPlayback::BackgroundProjector']]],
+  ['projector_2836',['Projector',['../classPretiaArCloud_1_1RecordingPlayback_1_1BackgroundProjector.html#a022ebd32f5816ded472eb64e49823576',1,'PretiaArCloud::RecordingPlayback::BackgroundProjector']]]
+];

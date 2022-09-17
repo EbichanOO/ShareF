@@ -1,0 +1,5 @@
+var classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1Vector3SerializableFormatter =
+[
+    [ "Deserialize", "classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1Vector3SerializableFormatter.html#a04075aa4c828b26bc9d316ccc1ebd30b", null ],
+    [ "Serialize", "classPretiaArCloud_1_1Networking_1_1Formatters_1_1PretiaArCloud_1_1Networking_1_1Vector3SerializableFormatter.html#a80b908ce204c62f8714e98f0077f6bcd", null ]
+];

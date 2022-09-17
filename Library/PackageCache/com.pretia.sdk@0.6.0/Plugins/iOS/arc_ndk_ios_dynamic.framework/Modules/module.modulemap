@@ -1,0 +1,6 @@
+framework module arc_ndk_ios_dynamic {
+  umbrella header "arc_ndk_ios_dynamic.h"
+
+  export *
+  module * { export * }
+}

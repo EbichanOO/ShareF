@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 08e0aea57a92cd949a6b2b07f44ea729
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _networkCameraProxyPrefab: {fileID: 1993518686768183330, guid: ec50ccf7f3e434342accb35ed4cd6fe1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
